@@ -2,6 +2,11 @@
 
 This project involves creating a modern **landing page** design. The page offers a user-friendly interface with visual and text-based components. Below is an explanation of the technologies used and the project structure.
 
+![image](https://github.com/user-attachments/assets/22012cc9-be2d-4228-8df0-e05dc25d1cc0)
+![image](https://github.com/user-attachments/assets/ba552bc8-7b96-4246-afd0-2e09ada5a2a8)
+![image](https://github.com/user-attachments/assets/741b6db1-1f80-4a82-8a8a-adb3f5cf69fb)
+![image](https://github.com/user-attachments/assets/9390a2ae-d202-45f0-b525-c9c26ddef638)
+
 ---
 
 ## Technologies and Tools Used
