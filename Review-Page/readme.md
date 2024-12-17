@@ -2,6 +2,11 @@
 
 This project contains a **responsive web page** created with HTML and Tailwind CSS. It includes a navigation bar, a hero section, customer testimonials, a contact form, and a footer. It is optimized for both mobile and desktop devices.
 
+![image](https://github.com/user-attachments/assets/97723d74-d481-48fa-bccf-79fa027bf258)
+![image](https://github.com/user-attachments/assets/7ad10598-9f40-4b97-b226-7e9cd3521d73)
+![image](https://github.com/user-attachments/assets/2aebb83b-4f5e-480f-a5b0-cc5eaba93ca0)
+
+
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [Features](#features)
